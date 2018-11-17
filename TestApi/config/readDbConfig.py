@@ -1,7 +1,7 @@
 #coding:utf-8
 
-# from pymysql import connect,cursors
-# from pymysql.err import OperationalError
+from pymysql import connect,cursors
+from pymysql.err import OperationalError
 import os
 import configparser
 
